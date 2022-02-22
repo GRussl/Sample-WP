@@ -1,0 +1,36 @@
+
+Deleted - Post ID 476 - attachment - cooked-dish
+Deleted - Post ID 479 - attachment - Barbecue-dish-item-1
+Deleted - Post ID 480 - attachment - Barbecue-dish-item-2
+Deleted - Post ID 481 - attachment - Barbecue-dish-item-3
+Deleted - Post ID 513 - attachment - party-group-of-people
+Deleted - Post ID 515 - attachment - hotel-diner-dining
+Deleted - Post ID 523 - elementor_library - Default Kit
+Deleted - Post ID 528 - attachment - bbq-restaurant-yoast-seo
+Deleted - Post ID 560 - attachment - food-dish-05
+Deleted - Post ID 567 - attachment - food-dish-06
+Deleted - Post ID 712 - page - Home
+Deleted - Post ID 713 - page - About Us
+Deleted - Post ID 8 - page - Menu
+Deleted - Post ID 9 - page - Contact Us
+Deleted - Post ID 41 - nav_menu_item - 
+Deleted - Post ID 42 - nav_menu_item - 
+Deleted - Post ID 43 - nav_menu_item - 
+Deleted - Post ID 714 - attachment - dark-logo.svg
+Inserted WP Form 719
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/833/wxr.xml
+{"post_title":"wxr.xml","guid":"http:\/\/localhost\/Bigbrew\/wp-content\/uploads\/2022\/02\/wxr.xml","post_mime_type":"text\/xml"}
+{"success":true,"data":{"file":"C:\\xampp\\htdocs\\Bigbrew\/wp-content\/uploads\/2022\/02\/wxr.xml","url":"http:\/\/localhost\/Bigbrew\/wp-content\/uploads\/2022\/02\/wxr.xml","type":"text\/xml"}}
+720
+Inserted - Term 16 - {"term_id":16,"name":"Primary Menu","slug":"primary-menu","term_group":0,"term_taxonomy_id":16,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 17 - {"term_id":17,"name":"Quick Links","slug":"quick-links","term_group":0,"term_taxonomy_id":17,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 18 - {"term_id":18,"name":"Services","slug":"services","term_group":0,"term_taxonomy_id":18,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 63 - attachment - about-1
+Inserted - Post 135 - attachment - offer-image
+Inserted - Post 175 - attachment - testimonial1
+Inserted - Post 176 - attachment - testimonial2
+Inserted - Post 177 - attachment - testimonial3
+Inserted - Post 188 - attachment - about-doctor
+Inserted - Post 218 - attachment - bg-graphic-1
+Inserted - Post 219 - attachment - bg-graphic-2
+Inserted - Post 307 - attachment - testimonial4
